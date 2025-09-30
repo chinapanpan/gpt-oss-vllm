@@ -9,13 +9,6 @@ This project contains scripts and configurations for deploying and testing a vLL
 - `build_and_push.sh`: Script to build and push the Docker image
 - `deploy_and_test.ipynb`: Jupyter notebook for deployment and testing
 
-## Build docker image
-
-Build and push the Docker image:
-
-```
-./build_and_push.sh
-```
 
 ## Deployment and Testing
 
